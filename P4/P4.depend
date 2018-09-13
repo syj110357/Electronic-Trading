@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1480437271 source:c:\users\lenovo\desktop\ve281\p4\p4\main.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+	<vector>
+	<iomanip>
+	<string>
+	<sstream>
+	<cstring>
+	<unordered_map>
+	<queue>
+	<set>
+
+1480729911 source:c:\users\lenovo\desktop\ve281\p4\p4\market.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+	<vector>
+	<iomanip>
+	<string>
+	<sstream>
+	<cstring>
+	<unordered_map>
+	<queue>
+	<set>
+	"getopt.h"
+
